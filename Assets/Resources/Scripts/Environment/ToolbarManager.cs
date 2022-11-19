@@ -26,6 +26,8 @@ public class ToolbarManager : MonoBehaviour
     private GameObject shadingPanel;
     [SerializeField]
     private Light globalLight;
+    [SerializeField]
+    private GameObject[] interfaceElements;
 
     private SolarCamController camController;
     private GridPlaneGenerator gridPlane;
@@ -67,6 +69,16 @@ public class ToolbarManager : MonoBehaviour
 
     public void LayerToggle_Starfield(bool toggled){
         starfield.SetStarfieldVisibility(toggled);
+    }
+
+    public void LayerToggle_Interface(bool toggled)
+    {
+        for (int i = 0; i < interfaceElements.Length; i++){
+            interfaceElements[i].SetActive(toggled);
+        }
+        if(!toggled){
+            ToggleToolbar();
+        }
     }
 
     public void ToggleInfiniteGrid(){
