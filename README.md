@@ -5,6 +5,5 @@ Executable build included of the solar system should you want to play around wit
 [Created For This Video](https://www.youtube.com/watch?v=t89De819YMA)<br>
 [Web Demo](https://scottanders.itch.io/solar-system-simulation)
 
-![SolarSystemGif](https://raw.githubusercontent.com/ScottyRAnderson/Images/master/SolarSystemGif.gif)
 ![SolarSystemSimulation](https://raw.githubusercontent.com/ScottyRAnderson/Images/master/SolarSystemSimulation.png)
 ![Jupiter&Saturn](https://raw.githubusercontent.com/ScottyRAnderson/Images/master/Jupiter&Saturn.png)
