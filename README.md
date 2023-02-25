@@ -12,7 +12,7 @@ Solar system simulation implementing Keplerian Orbital Mechanics.
 <br> Given a csv data file of planet & satellite data, a solar system may be generated with scaled astonomical bodies.
 
 ## Development Video
-Below is a development video detailing the creation process of this effect,
+Below is a development video detailing the creation process of this system,
 <br>[Simulations - Keplerian Orbits](https://www.youtube.com/watch?v=t89De819YMA)
 <br>Play the simulation in your browser,
 <br>[Web Demo](https://scottanders.itch.io/solar-system-simulation)
