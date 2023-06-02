@@ -17,5 +17,5 @@ Below is a development video detailing the creation process of this system,
 <br>Play the simulation in your browser,
 <br>[Web Demo](https://scottanders.itch.io/solar-system-simulation)
 
-![SolarSystemSimulation](https://raw.githubusercontent.com/ScottyRAnderson/Images/master/SolarSystemSimulation.png)
-![Jupiter&Saturn](https://raw.githubusercontent.com/ScottyRAnderson/Images/master/Jupiter&Saturn.png)
+![SolarSystemSimulation](https://raw.githubusercontent.com/ScottyRAnderson/Images/master/keplerian-orbits_feature_1.jpg)
+![Jupiter&Saturn](https://raw.githubusercontent.com/ScottyRAnderson/Images/master/keplerian-orbits_feature_2.jpg)
